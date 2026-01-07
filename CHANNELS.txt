@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/31vnSVm.png" group-title="TESTE",Canal de Teste
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="PROGRAMAÇÃO DO DIA ⚽" tvg-logo="https://i.imgur.com/aWn6Dbu.png" group-title="⭐ JOGOS DO DIA",PROGRAMAÇÃO DO DIA ⚽
 http://dnsul.top:80/live/paquita/pai/181110.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB SP HD
@@ -1604,4 +1606,5 @@ http://dnsul.top:80/live/paquita/pai/247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COCA - COLA FM" tvg-logo="https://i.imgur.com/7iatu5j.jpg" group-title="RADIO",COCA - COLA FM
 http://dnsul.top:80/live/paquita/pai/245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RÁDIO CBN RIO 92.5 FM" tvg-logo="https://i.imgur.com/7kdSOS2.jpeg" group-title="RADIO",RÁDIO CBN RIO 92.5 FM
+
 http://dnsul.top:80/live/paquita/pai/153448.m3u8
